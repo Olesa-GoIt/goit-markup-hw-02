@@ -108,13 +108,13 @@ button {
 }
 
 .team {
-  border-color: #f4f4fd;
+  background-color: #f4f4fd;
 }
 .portfolio {
   background-color: #fff;
 }
 .team-item: {
-  background-color: #fff;
+  background-color: #ffffff;
 }
 .team-title,
 .portfolio-title {
