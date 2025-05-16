@@ -106,6 +106,7 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  background-color: #fff;
 }
 
 .team {
@@ -115,9 +116,6 @@ button {
   background-color: #fff;
 }
 .team-item: {
-  background-color: #ffffff;
-}
-.team-list {
   background-color: #fff;
 }
 
