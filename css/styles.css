@@ -107,8 +107,13 @@ button {
   color: #434455;
 }
 
-.team,
+.team {
+  border-color: #f4f4fd;
+}
 .portfolio {
+  background-color: #fff;
+}
+.team-item: {
   background-color: #fff;
 }
 .team-title,
